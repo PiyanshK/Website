@@ -422,7 +422,7 @@ body {
 }
 
 .skill__python {
-    width: 70%;
+    width: 60%;
     background: rgb(9, 255, 0);
     height: calc(var(--section-height) / 25);
 }
@@ -439,7 +439,7 @@ body {
 }
 
 .skill__java {
-    width: 60%;
+    width: 50%;
     background: rgb(94, 255, 0);
     height: calc(var(--section-height) / 25);
 }
@@ -456,7 +456,7 @@ body {
 }
 
 .skill__web {
-    width: 50%;
+    width: 40%;
     background: rgb(94, 255, 0);
     height: calc(var(--section-height) / 25);
 }
